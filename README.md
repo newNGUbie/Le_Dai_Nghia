@@ -1,6 +1,7 @@
 <!-- Hiệu ứng chữ chạy tự động -->
+<!-- Hiệu ứng chữ chạy tự động -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nghia+(V%E1%BB%ABa)+%F0%9F%91%8B;Data+Analyst+Intern;Data+Science+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+L%C3%AA+%C4%90%E1%BA%A1i+Ngh%C4%A9a+%F0%9F%91%8B;Data+Analyst+Intern;Data+Science+Explorer" alt="Typing SVG" />
 </div>
 
 <p align="center">
