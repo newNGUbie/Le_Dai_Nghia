@@ -49,9 +49,13 @@
 
 ---
 
+---
+
 ### 📊 Thống kê GitHub tự động (GitHub Stats)
 <div align="center">
-  <!-- THAY THẾ 'newNGUbie' bằng username thật của bạn ở 2 dòng dưới đây -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Lê Đại Nghĩa&show_icons=true&theme=radial&rank_icon=github&count_private=true" alt="Nghia's GitHub stats" />
+  <!-- Bảng thống kê tổng quan (Tạm thời ẩn do lỗi dữ liệu)
+  <img src="https://github-readme-stats.vercel.app/api?username=newNGUbie&show_icons=true&theme=radial&rank_icon=github&count_private=true" alt="Nghia's GitHub stats" />
+  -->
+  <!-- Bảng thống kê chuỗi hoạt động (Vẫn hiển thị bình thường) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=newNGUbie&theme=radial" alt="GitHub Streak" />
 </div>
